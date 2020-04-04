@@ -179,10 +179,10 @@
     </state>
     <state x="483" y="153" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1585996731146" />
     <state x="483" y="172" key="#xdebugger.evaluate/0.23.1440.877@0.23.1440.877" timestamp="1585513243611" />
-    <state x="186" y="44" key="CommitChangelistDialog2" timestamp="1585996347440">
+    <state x="186" y="44" key="CommitChangelistDialog2" timestamp="1586001705102">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="186" y="44" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1585996347440" />
+    <state x="186" y="44" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1586001705102" />
     <state x="186" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1585345174888" />
     <state width="565" height="450" key="DebuggerActiveHint" timestamp="1585996718110">
       <screen x="0" y="0" width="1440" height="900" />
@@ -242,9 +242,10 @@
     </state>
     <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1585324163934" />
     <state x="208" y="53" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1585411767174" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1585345198363">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1586001714822">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1586001714822" />
     <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1585345198363" />
   </component>
   <component name="XDebuggerManager">
